@@ -13,7 +13,7 @@ def main():
 
     circumference = math.pi * 2 * radius
     # Calculates the circumference
-    area = math.pi * radius**2
+    area = math.pi * radius ** 2
     # Calculates the area
     print("The area of a circle is {: .2f} cm".format(area))
     # Displays the area
